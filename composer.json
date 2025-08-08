@@ -2,6 +2,7 @@
   "name": "html-parser-library/parse",
   "description": "Test task for CRCT",
   "type": "library",
+  "license": "MIT",
   "require": {
     "php": ">=8.4",
     "ext-dom": "*"

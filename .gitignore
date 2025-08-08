@@ -1,0 +1,13 @@
+/vendor/
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+*.log
+*.cache
+.env
+.env.local
+composer.lock
+index.php
+docker-compose.yml

@@ -1,0 +1,24 @@
+{
+  "name": "html-parser-library/parse",
+  "description": "Test task for CRCT",
+  "type": "library",
+  "require": {
+    "php": ">=8.4",
+    "ext-dom": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "9.6.x-dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "HtmlParserLibrary\\": "src/",
+      "HtmlParserLibrary\\Tests\\": "tests/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Nikita"
+    }
+  ],
+  "minimum-stability": "dev"
+}

@@ -1,6 +1,6 @@
 # HTML Parser Library
 
-![PHP Version](https://img.shields.io/badge/PHP-8.4%2B-blue)
+![PHP Version](https://img.shields.io/badge/PHP-8.0%2B-blue)
 
 Библиотека для анализа HTML/XML документов с расширенными возможностями подсчёта тегов и отправки статистики.
 
